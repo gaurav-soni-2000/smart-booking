@@ -2,7 +2,7 @@
 
 ## Requirements
 
--   PHP 8.1+, Composer, Node 18+, npm, MySQL
+-   PHP 8.1+, Composer, Node 22+, npm, MySQL
 
 ## Setup
 
